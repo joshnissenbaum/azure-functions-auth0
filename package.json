@@ -4,7 +4,8 @@
   "description": "Authenticate your Azure Functions with Auth0",
   "main": "lib/index.js",
   "dependencies": {
-    "express-jwt": "^3.3.0"
+    "express-jwt": "^3.3.0",
+    "jwks-rsa": "^1.3.0"
   },
   "devDependencies": {
     "babel-istanbul": "^0.6.0",
